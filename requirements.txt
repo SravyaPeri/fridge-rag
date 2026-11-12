@@ -1,0 +1,5 @@
+numpy>=2.2,<3
+sentence-transformers>=5.1,<6
+streamlit>=1.50,<2
+requests>=2.32,<3
+pytest>=8.4,<10

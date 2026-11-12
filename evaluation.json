@@ -1,0 +1,20 @@
+[
+  {"query": "Half a can of black beans, stale tortillas, and a sad lime", "expected_source": "bundled/black-bean-tortilla-skillet.md"},
+  {"query": "Chickpeas spinach tomato garlic for dinner", "expected_source": "bundled/chickpea-spinach-tomato.md"},
+  {"query": "Peanut butter noodles soy sauce carrot lime", "expected_source": "bundled/peanut-noodles.md"},
+  {"query": "A lonely potato two eggs and half an onion", "expected_source": "bundled/potato-egg-hash.md"},
+  {"query": "Pasta broccoli lemon garlic", "expected_source": "bundled/lemon-broccoli-pasta.md"},
+  {"query": "Red lentils carrot onion cumin in a warming soup", "expected_source": "bundled/red-lentil-soup.md"},
+  {"query": "Banana oats and an egg for breakfast", "expected_source": "bundled/banana-oat-pancakes.md"},
+  {"query": "Tuna white beans cucumber lemon", "expected_source": "bundled/tuna-white-bean-salad.md"},
+  {"query": "Mushrooms garlic butter bread", "expected_source": "bundled/mushroom-toast.md"},
+  {"query": "Cabbage rice carrot soy sauce", "expected_source": "bundled/cabbage-rice-pan.md"},
+  {"query": "Chickpea cucumber yogurt tortillas lemon", "expected_source": "bundled/yogurt-cucumber-wrap.md"},
+  {"query": "Bread tomato cheese", "expected_source": "bundled/tomato-cheese-toast.md"},
+  {"query": "Crispy strips with leftover canned legumes and a citrus squeeze", "expected_source": "bundled/black-bean-tortilla-skillet.md"},
+  {"query": "Something warm and cozy with pulses and orange root vegetables", "expected_source": "bundled/red-lentil-soup.md"},
+  {"query": "A quick creamy nutty noodle bowl with crunchy vegetables", "expected_source": "bundled/peanut-noodles.md"},
+  {"query": "Paneer and Green peak", "expected_source": "bundled/matar-paneer.md"},
+  {"query": "paneer and green peas", "expected_source": "bundled/matar-paneer.md"},
+  {"query": "paneer and peas", "expected_source": "bundled/matar-paneer.md"}
+]
